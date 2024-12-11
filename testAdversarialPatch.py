@@ -1,9 +1,9 @@
 from ultralytics import YOLO
 
 # Load a model
-model = YOLO("yolov11n.pt")  # change to dest different models
-# smallest model: yolov11n.pt
-# largest model: yolov11x.pt
+model = YOLO("yolo11n.pt")  # change to dest different models
+# smallest model: yolo11n.pt
+# largest model: yolo11x.pt
 source = "./person with patch3.png" # change to test different images
 
 # Run batched inference on a list of images
