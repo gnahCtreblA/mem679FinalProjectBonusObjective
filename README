@@ -1,0 +1,5 @@
+Hello!
+This is my project for the bonus objective of my final project.
+It is simple to run, just install the requirements and run the testAdversarialPatch file.
+You can manually select which model and image you want to test.
+More information regarding the models can be found on the Ultralytics website.
